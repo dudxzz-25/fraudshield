@@ -1,5 +1,13 @@
 # FraudShield
 
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-ML-3776AB?logo=python&logoColor=white">
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-Fraud-F7931E?logo=scikitlearn&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-Investigation-4479A1">
+  <a href="https://github.com/dudxzz-25/fraudshield/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/dudxzz-25/fraudshield/actions/workflows/ci.yml/badge.svg"></a>
+</p>
+
+
 [![CI](https://github.com/dudxzz-25/fraudshield/actions/workflows/ci.yml/badge.svg)](https://github.com/dudxzz-25/fraudshield/actions/workflows/ci.yml)
 
 Pipeline de Machine Learning para **detecção de fraude em transações financeiras**, com foco em dados desbalanceados, comparação de modelos e métricas mais adequadas do que accuracy isolada.
